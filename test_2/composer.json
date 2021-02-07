@@ -1,0 +1,20 @@
+{
+    "name": "thomzee/avana",
+    "description": "This is test_2 assessment from Avana",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Thomzee\\Avana\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thomzee",
+            "email": "thomaskayu@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.16"
+    }
+}
